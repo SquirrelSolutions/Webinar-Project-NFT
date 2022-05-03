@@ -5,7 +5,7 @@ We have created a Frontend application for taking the user details and then auto
 NFT's to their wallet with an email confirmation.
 
 ```diff
-- We also have funcitionality of sending NFT's in batches from Smart Contract
+- We also have functionality of sending NFT's in batches from Smart Contract
 
 ```
 
